@@ -1,2 +1,0 @@
-#Dataset KAGGLE
-https://www.kaggle.com/datasets/sajidsaifi/prostate-cancer
